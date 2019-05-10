@@ -1,0 +1,5 @@
+301335629 rsg23 Rajan Grewal
+
+- Used C++ STL priority queue
+- Pops off elements on queues until it finds an element that is in q1 and not q2
+- Pops off all duplicates then compares top of stacks
